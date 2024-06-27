@@ -1,0 +1,58 @@
+// app global css in SCSS form
+.cursor{
+  cursor: pointer;
+}
+.cursor:hover{
+  background-color: #9bd5cf;
+}
+.icon{
+  cursor: pointer;
+}
+.icon:hover{
+  color: #26A69A;
+}
+.anchor-no{
+  font-size: 40px;
+  color: #384542;
+  position: absolute;
+  z-index: 100;
+}
+.anchor-no:hover{
+  color: #1cb9aa;
+}
+.anchor{
+  font-size: 37px;
+  color: #b1d8d0;
+  position: absolute;
+  z-index: 100;
+  background-color: #009587;
+  border-radius: 50px;
+}
+.anchor:hover{
+  background-color: #1D1D1D;
+  color: #b1d8d0;
+}
+.anchor-no-list{
+  font-size: 40px;
+  color: #384542;
+}
+.anchor-no-list:hover{
+  color: #1cb9aa;
+}
+.anchor-list{
+  font-size: 37px;
+  color: #b1d8d0;
+  background-color: #009587;
+  border-radius: 50px;
+}
+.anchor-list:hover{
+  background-color: #1D1D1D;
+  color: #b1d8d0;
+}
+.icon-list{
+  font-size: 40px;
+  cursor: pointer;
+}
+.icon-list:hover{
+  color: #1cb9aa;
+}
